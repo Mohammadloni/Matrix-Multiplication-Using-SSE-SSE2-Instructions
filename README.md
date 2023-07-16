@@ -1,5 +1,4 @@
-# Matrix_Multiplication_SSE-SSE2-
-This is a C++ source code that I developed for my advanced architecture homework. 
-In this program, I compared the total execution time of MM benchmark for 4 input data sizes and 3 different compiler optimization options (-O, -O2, -O3). 
-I implemented my code with SSE and SSE2 instruction sets, for different programming variables including integer, float and double.
-For more information, please read report file.
+# Matrix_Multiplication Using SSE/SSE2
+The C++ source code for implementing the Matrix Multiplication (MM) function using SSE and SSE2 instructions. 
+I compared the total execution time of the MM for different input data sizes and three different compiler optimization options (-O, -O2, -O3). 
+This code also supports different variables including integer, float, and double.
